@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shailendra Chaudhary
+### Hey there 👋 I'm Shailendra Chaudhary
 
 ## I am an enthusiastic and hardworking student 🙂
 
