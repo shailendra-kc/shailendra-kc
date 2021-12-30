@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I'm Shailendra Chaudhary
 
-<!--
-**shailendra-kc/shailendra-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an enthusiastic and hardworking student 🙂
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am an undergraduate learning Electrical Engineering at MNNIT, Allahabad
+- 📱 I am currently learning Competitive Programming
+ - 😄 I like to solve algorithmic problems
+- 👯 I'm looking forward to collaborate with other content creators.
+
+- 💬 Ask me about Data structure and ALgorithms
+- 📫 How to reach me:  https://www.linkedin.com/in/shailendra-chaudhary-a5946a1b3/
+ - 📫 Mail me at sp1609729@gmail.com
+- 😄 Pronouns: He/His
+
+## ⚙️ Skills :
+- # Languages : C++, C, Java
+ - # CS Core :Data Structures, Algorithms, DBMS, Operating Systems, Object Oriented Programming
+
